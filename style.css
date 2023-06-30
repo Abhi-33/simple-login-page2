@@ -1,0 +1,101 @@
+*{
+    padding:0;
+    margin:0;
+    color:#CCC9DC;
+}
+body{
+    background-color:black;
+}
+h1{
+text-align: center;
+font-size: 70px;
+color:#CCC9DC
+}
+#kem{
+    color: black;
+}
+#para{
+    color:#131200;
+    line-height:0px;
+    text-align:center;
+    font-size:30px;
+    font-family:'Times New Roman';
+    color:#AAD922;
+}
+#para3{
+    text-align:center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri,'Trebuchet MS', sans-serif;
+text-transform:capitalize;
+}
+#one{
+    text-transform: capitalize;
+}
+#three{
+  text-align: center;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#usernamebox{
+    color:black;
+}
+#passwordbox{
+    color:black;
+}
+#kemcho{
+    color:#131200;
+    background-color: lightpink;
+    text-align:center;
+    line-height:40px;
+    background-image:url("tada.jpg.jpg");
+    background-size:cover;
+    
+}
+#username{
+    color:black;
+}
+#password{
+    color:black;
+}
+
+#link{
+    color:black;
+    text-decoration:none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+    background-color:antiquewhite;
+    border-left: 0cqb;
+    border-top:0cm;
+   display:flexbox; 
+   
+}
+#start{
+   
+    font-family:'Times New Roman';
+}
+#navbar{
+
+    height:50px;
+    background-color:#CCC9DC;
+    
+}
+#logo{
+margin-right: 200px;
+font-size:35px;
+color:black;
+}
+
+#account{
+margin-right: 200px;
+color:black;
+}
+
+#cart{
+margin-right: 200px;
+color:black;
+}
+
+#about{
+    margin-right: 200px; 
+    }
+
+
